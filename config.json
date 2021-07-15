@@ -3,11 +3,5 @@
     "runtime": "nodejs12.x",
     "retries": 0,
     "timeout": 10,
-    "context_version": "1.0.0",
-    "options": {
-        "risk_enabled": false,
-        "location_enabled": false,
-        "mfa_device_info_enabled": false
-    },
-    "conditions": []
+    "context_version": "1.0.0"
 }
